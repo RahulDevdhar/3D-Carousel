@@ -3,9 +3,10 @@ body{
     background-image:linear-gradient(to right,black,black);
     border: 20px solid #b60606;
     height: 44em;
-    opacity: 0.
+    box-sizing: border-box;
+
 }
-#projects{
+.projects{
     color:#03A9F4;
     margin-left: 480px;
     
